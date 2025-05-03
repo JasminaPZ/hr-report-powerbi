@@ -28,7 +28,7 @@ The report is based on a pre-processed and cleaned dataset stored in a **SQL Ser
 
 | Actives Dashboard | Recruitment Dashboard |
 |-------------------|------------------------|
-| ![Actives](images/HR_Actives.png) | ![Recruitment](images/HR_Recruitment.png) |
+| ![Actives](images/HR_Actives.png) | ![Recruitment](images/HR_Recruiment.png) |
 
 | Sick Leave Dashboard | Department Dashboard |
 |-----------------------|---------------------|
