@@ -28,11 +28,11 @@ The report is based on a pre-processed and cleaned dataset stored in a **SQL Ser
 
 | Actives Dashboard | Recruitment Dashboard |
 |-------------------|------------------------|
-| ![Actives](images/HR_Actives.png) | ![Recruitment](images/dashboard_2_Recruitment.png) |
+| ![Actives](images/HR_Actives.png) | ![Recruitment](images/HR_Recruitment.png) |
 
-| Sick Leave Dashboard | Navigation Example |
+| Sick Leave Dashboard | Department Dashboard |
 |-----------------------|---------------------|
-| ![Sick Leave](images/dashboard_3_SickLeave.png) | ![Navigation](images/navigation_tabs.png) |
+| ![Sick Leave](images/HR_SickLeave.png) | ![Navigation](images/HR_Department.png) |
 
 ---
 
